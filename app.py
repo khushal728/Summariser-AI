@@ -6,7 +6,7 @@ import pdfplumber
 import textwrap
 
 # Configure Gemini API
-genai.configure(api_key="Your-google-gemini-api-key")
+genai.configure(api_key="AIzaSyBGiv-MgRIfgaUgmepFDfAdK5WBvU62Ojk")
 
 # Function to summarize text with better accuracy
 def summarize_text(text, summary_type="detailed"):
